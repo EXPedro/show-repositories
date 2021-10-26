@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 417585791,
+      "name": "angular-blog",
+      "owner": {
+        "login": "EXPedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80805367?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "TypeScript",
+      "html_url": "https://github.com/EXPedro/angular-blog",
+      "description": "description"
+    },
+    {
+      "id": 421133883,
+      "name": "business-card",
+      "owner": {
+        "login": "EXPedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80805367?v=4"
+      },
+      "html_url": "https://github.com/EXPedro/business-card",
+      "description": "description",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 398060699,
+      "name": "clone-netflix",
+      "owner": {
+        "login": "EXPedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80805367?v=4"
+      },
+      "html_url": "https://github.com/EXPedro/clone-netflix",
+      "description": "A clone of the netflix",
+      "stargazers_count": 0,
+      "language": "HTML"
+    },
+    {
+      "id": 398300129,
+      "name": "controle-acesso",
+      "owner": {
+        "login": "EXPedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80805367?v=4"
+      },
+      "html_url": "https://github.com/EXPedro/controle-acesso",
+      "description": "description",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 371773501,
+      "name": "devweek_backend",
+      "owner": {
+        "login": "EXPedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80805367?v=4"
+      },
+      "html_url": "https://github.com/EXPedro/devweek_backend",
+      "description": "description",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 372037578,
+      "name": "devweek_frontend",
+      "owner": {
+        "login": "EXPedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80805367?v=4"
+      },
+      "html_url": "https://github.com/EXPedro/devweek_frontend",
+      "description": "description",
+      "stargazers_count": 0,
+      "language": "TypeScript"
+    },
+    {
+      "id": 372351361,
+      "name": "devweek_mobile",
+      "owner": {
+        "login": "EXPedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80805367?v=4"
+      },
+      "html_url": "https://github.com/EXPedro/devweek_mobile",
+      "description": "description",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 417090351,
+      "name": "ecommerce-microservices",
+      "owner": {
+        "login": "EXPedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80805367?v=4"
+      },
+      "html_url": "https://github.com/EXPedro/ecommerce-microservices",
+      "description": "description",
+      "stargazers_count": 0,
+      "language": "JavaScript"
+    },
+    {
+      "id": 348581667,
+      "name": "first-contributions",
+      "owner": {
+        "login": "EXPedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80805367?v=4"
+      },
+      "html_url": "https://github.com/EXPedro/first-contributions",
+      "description": "description",
+      "stargazers_count": 0,
+      "language": "Empty"
+    },
+    {
+      "id": 404025803,
+      "name": "github-app",
+      "owner": {
+        "login": "EXPedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80805367?v=4"
+      },
+      "html_url": "https://github.com/EXPedro/github-app",
+      "description": "description",
+      "stargazers_count": 0,
+      "language": "JavaScript"
+    }
+  ]
+}
