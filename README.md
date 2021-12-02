@@ -1,15 +1,20 @@
-# LAB - Criando um App para Mostrar Repositórios do GitHub
+# :octocat: App para Mostrar Repositórios do GitHub  :octocat:
 
-App Android para mostrar seu portfólio de projetos do GitHub de maneira elegante e simplificada. Projeto desenvolvido no *bootcamp* do banco inter, na plataforma da Digital Innovation One, sob orientação do especialista [Ezequiel Messore](https://www.linkedin.com/in/ezequielmessore/).    
-  
-Durante o desenvolvimento deste projeto, foram aprimorados os conhecimentos em Kotlin, através do uso de padrões de projeto com android Jetpack, dos conceitos de Clean Architecture, da biblioteca Koin e do assincronismo de processos com coroutines.      
+App Android que realiza busca, pelo nome do usuário, e retorna o portfólio de repositórios do GitHub, de maneira elegante e simplificada.  
 
-&nbsp;    
+## :hammer::hammer: Tools :wrench::wrench: 
 
->Projeto concluído em 10/2021.   
+- __Kotlin__ 
+- __API do GitHub__  
+- __Android Jetpack__   
+- __Clean Architecture__  
+- __Koin__    
+- __Coroutines__    
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1piKcdeQ4YeENNgCe1w5nXszxbABf0g0N1Q&usqp=CAU" width = "auto" height = "28px" alt = "android studio"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNA81w93gpdo5ROIPkw7na3V5a_jfKZTnwfg&usqp=CAU" width = "auto" height = "28px" alt = "kotlin"> 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PFl-llyLuI03Mb_bF8k_lpNp2hZ7n3xbIw&usqp=CAU" width = "auto" height = "35px" alt = "android jetpack"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMljfxRTnAJ79DofhCrENjLLfPCNGPbVSFtw&usqp=CAU" width = "auto" height = "35px" alt = "clean architecture"><img src = "https://insert-koin.io/img/koin_logo.png" width = "auto" height = "35px" alt = "koin library"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HbEm2Uih9APZqvJTOUjANhg0qS_buRppTg&usqp=CAU" width = "auto" height = "35px" alt = "coroutines"> 
 
 
-&nbsp;   
-
-
-Kotlin | Jetpack | Koin | JSON | Clean Architecture | Coroutines
+#### :purple_circle: Concluído em 26/10/2021.
